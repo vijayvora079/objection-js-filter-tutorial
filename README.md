@@ -1,4 +1,4 @@
-# Objection.js Tutorial with Mysql and Express
+# Objection.js with filter functionality Tutorial with Mysql and Express
 
 1. Express
 2. Knex
